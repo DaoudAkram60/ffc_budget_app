@@ -1,5 +1,5 @@
 # ffc_budget_app
-the second project of FreeCodeCamp python certification.
+the third project of FreeCodeCamp python certification.
 
 link : https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
 
